@@ -9,7 +9,9 @@ So, my background is in social media stuff. I used to create content and ads for
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSZYrwWLQbOT32dKUCcUKMg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/mrsenan">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSZYrwWLQbOT32dKUCcUKMg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      [![Add me on Discord](https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/460678672869883905)
+      <a href="https://discordapp.com/users/460678672869883905">
+  <img alt="Add me on Discord" title="Add me on Discord" src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord"/>
+</a>
 
    </p>
 
