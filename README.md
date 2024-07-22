@@ -1,4 +1,4 @@
-# 🧑‍🌾 Senan Vortex
+# 👨‍💻 Senan Vortex
 
 **`Creator Somewhere (Web Developer on Progress ⌛)`**
 
@@ -43,12 +43,16 @@ So, my background is in social media stuff. I used to create content and ads for
 
 #
 
-### 📺 Latest YouTube Videos (Not Coding Related)
+### 📺 My learning sources
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<div style="display: flex;">
-    <img src="https://ytcards.demolab.com/?id=3rJJaXddDEo&title=A+Day+as+a+Minimalism+in+Stardew+Valley&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282" alt="A Day as a Minimalism in Stardew Valley" style="border-radius: 5px; margin-right: 15px;">
-    <img src="https://ytcards.demolab.com/?id=-GrkmOJsUoI&title=Just+a+Slow+Living+Day+in+Stardew+Valley&lang=en&timestamp=1721138421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488" alt="Just a Slow Living Day in Stardew Valley" style="border-radius: 5px;">
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://ytcards.demolab.com/?id=RUTV_5m4VeI&title=Dasar+Pemrograman+dengan+Javascript&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Dasar Pemrograman dengan Javascript" style="border-radius: 5px;">
+    <img src="https://ytcards.demolab.com/?id=aT60R1cySLM&title=Javascript+dan+DOM&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Javascript dan DOM" style="border-radius: 5px;">
+    <img src="https://ytcards.demolab.com/?id=RwT41El778A&title=Javascript+Lanjutan&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Javascript Lanjutan" style="border-radius: 5px;">
+    <img src="https://ytcards.demolab.com/?id=l1W2OwV5rgY&title=Belajar+PHP+untuk+PEMULA&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Belajar PHP untuk PEMULA" style="border-radius: 5px;">
+    <img src="https://ytcards.demolab.com/?id=ZKDUFoouyBI&title=OOP+DASAR+pada+PHP&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="OOP DASAR pada PHP" style="border-radius: 5px;">
+    <img src="https://ytcards.demolab.com/?id=tBKOb8Ib5nI&title=Membuat+Aplikasi+MVC+dengan+PHP&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Membuat Aplikasi MVC dengan PHP" style="border-radius: 5px;">
 </div>
 
 <!-- END YOUTUBE-CARDS -->
