@@ -36,23 +36,3 @@ So, my background is in social media stuff. I used to create content and ads for
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
-<br />
-
-          
-          
-
-#
-
-### 📺 My learning sources
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://ytcards.demolab.com/?id=RUTV_5m4VeI&title=Dasar+Pemrograman+dengan+Javascript&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Dasar Pemrograman dengan Javascript" style="border-radius: 5px;">
-    <img src="https://ytcards.demolab.com/?id=aT60R1cySLM&title=Javascript+dan+DOM&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Javascript dan DOM" style="border-radius: 5px;">
-    <img src="https://ytcards.demolab.com/?id=RwT41El778A&title=Javascript+Lanjutan&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Javascript Lanjutan" style="border-radius: 5px;">
-    <img src="https://ytcards.demolab.com/?id=l1W2OwV5rgY&title=Belajar+PHP+untuk+PEMULA&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Belajar PHP untuk PEMULA" style="border-radius: 5px;">
-    <img src="https://ytcards.demolab.com/?id=ZKDUFoouyBI&title=OOP+DASAR+pada+PHP&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="OOP DASAR pada PHP" style="border-radius: 5px;">
-    <img src="https://ytcards.demolab.com/?id=tBKOb8Ib5nI&title=Membuat+Aplikasi+MVC+dengan+PHP&lang=en&timestamp=1721502811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600" alt="Membuat Aplikasi MVC dengan PHP" style="border-radius: 5px;">
-</div>
-
-<!-- END YOUTUBE-CARDS -->
